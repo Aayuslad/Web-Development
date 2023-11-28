@@ -1,6 +1,6 @@
 # Web Development Learning Journey
 
-Hello fellow learners! 👋 Welcome to my web development learning journey. In the next 7 days, I'll be exploring the basics to advanced HTML. Let's dive into the world of web development together and build some magic!
+Hello Web Wizards! 👋 Welcome to my web development learning journey. In the next 7 days, I'll be exploring the basics to advanced HTML. Let's dive into the world of web development together and build some magic!
 
 ## Playlist Overview
 
